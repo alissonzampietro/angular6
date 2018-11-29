@@ -23,7 +23,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 The **@Injectable** funcionality allow you *pass a reference of a component* to another component in the instantiation of this.
 
 ### @Component
-With **@Component** funcionality, tou define before the Class the target area in the HTML that you will work in the component.
+With **@Component** funcionality, you define before the Class the target area in the HTML that you will work in the component.
 
 ## Best Practices
 
