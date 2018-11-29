@@ -3,20 +3,19 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 
- - [Informations][1]
- - [How to run?][2]
-    - Development server
-    - Code scaffolding
-    - Build
-    - Running unit tests
-    - Running end-to-end tests
+ - [Informations](##informations)
+ - [How to run?](##how-to-run)
+    - [Development server](###development-server)
+    - [Code scaffolding](###code-scaffolding)
+    - [Build](###cuild)
+    - [Running unit tests](###running-unit-tests)
+    - [Running end-to-end tests](###running-end-to-end-tests)
 
 [1]:
 ## Informations?
 ----------
 
 
-[2]:
 ## How to run?
 ----------
 
