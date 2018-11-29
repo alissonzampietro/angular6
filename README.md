@@ -2,8 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
+## Legends
 
- - [Informations](#informations)
+*Italic*> I'm not sure about
+
+ - [Knowledgment](#knowledgment)
+    - [@Injectable](#injectable)
+    - [@Component](#component)
+ - [Best Practices](#best-practices)
  - [How to run?](#how-to-run)
     - [Development server](#development-server)
     - [Code scaffolding](#code-scaffolding)
@@ -11,7 +17,18 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     - [Running unit tests](#running-unit-tests)
     - [Running end-to-end tests](#running-end-to-end-tests)
 
-## Informations?
+## Knowledgment
+
+### @Injectable
+The **@Injectable** funcionality allow you *pass a reference of a component* to another component in the instantiation of this.
+
+### @Component
+With **@Component** funcionality, tou define before the Class the target area in the HTML that you will work in the component.
+
+## Best Practices
+
+ - **$ signal (user$)**: Using the dollar sign in the name of a variable that is an observable, is considered best practice. This way it’s easy to identify if your variable is an observable or not.
+
 
 
 ## How to run?
